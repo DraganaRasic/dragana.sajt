@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
+<link rel='stylesheet' type='text/css' href='CV css.css'>
+<title>CURRICULUM VITAE</title>
+<body>
+<h1>Dragana Rasic</h1>
+<hr></hr>
 
-You can use the [editor on GitHub](https://github.com/DraganaRasic/dragana.sajt/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<div>
+<div id="slika">
+<img src="slika.jpg" alt="Ovde je slika">
+<p>Adresa: Jovana Subotica 9/14, Beograd, Zemun</p>
+<br>
+<p>Telefon: 064/5582 567</p>	
+<br>
+<p>Email: draganarasic66@gmail.com</p>
+<br>
+<p>Datum rodenja: 19.09.1975.</p>
+</div>
+</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+<div>
+<div id="Obrazovanje">
+Obrazovanje
+<ul>
+<li>Univerzitet u Beogradu - Menadzment ljudskih resursa, Master menadzer, <br>Master rad: Teorija samodeterminacije kao prediktor radnog apsentizma u farmaceutskoj industriji</li>
+</ul>
+</div>
+<div id="Ostala znanja i vestine">
+Ostala znanja i vestine
+<ul>
+<li>2013. The social context of Mental Health and Illness, University of Toronto (Coursera)</li>
+<li>Sertifikat za AdWords (polozeni ispiti iz osnova AdWordsa i Oglasavanja na mrezi multimedijalnog oglasavanja</li>
+</ul>
+</div>
+</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DraganaRasic/dragana.sajt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</head>
+</html>
